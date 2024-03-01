@@ -5,3 +5,6 @@
 /** export-ignore
 /addons !export-ignore
 /addons/** !export-ignore
+.gitignore export-ignore
+README.md export-ignore
+update.sh export-ignore
